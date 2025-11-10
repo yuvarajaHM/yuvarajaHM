@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**yuvarajaHM/yuvarajaHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# 💫 About Me:
+# 💫 About Me:
 My objective is to start my career as a Backend Developer, using my skills in Python and <br>Django to build efficient and user-friendly web applications. I enjoy solving real-world <br>problems through technology and aim to create reliable and scalable backend systems. As a <br>fresher, I am eager to learn from experienced developers, work on live projects, and grow my <br>technical knowledge. I am passionate about continuous learning, teamwork, and contributing to <br>the success of my organization while improving my skills in web development and backend <br>technologies. 
 
 
@@ -28,6 +16,3 @@ My objective is to start my career as a Backend Developer, using my skills in Py
 [![](https://visitcount.itsvg.in/api?id=yuvarajaHM&icon=1&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
