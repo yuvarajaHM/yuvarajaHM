@@ -1,5 +1,9 @@
 # 💫 About Me:
-My objective is to start my career as a Backend Developer, using my skills in Python and <br>Django to build efficient and user-friendly web applications. I enjoy solving real-world <br>problems through technology and aim to create reliable and scalable backend systems. As a <br>fresher, I am eager to learn from experienced developers, work on live projects, and grow my <br>technical knowledge. I am passionate about continuous learning, teamwork, and contributing to <br>the success of my organization while improving my skills in web development and backend <br>technologies. 
+Results-oriented Full Stack Developer skilled in building end-to-end web applications using Python, Django, 
+JavaScript, HTML, and CSS. Experienced in developing REST APIs, integrating machine learning models, and 
+deploying scalable backend services. Strong foundation in SQL with hands-on use of Git and version control. Built 
+production-ready ML and deep learning projects with measurable improvements in accuracy and performance. 
+Proven ability to deliver clean, optimized, and maintainable code aligned with industry best practices.
 
 
 ## 🌐 Socials:
