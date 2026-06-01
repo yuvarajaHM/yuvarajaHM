@@ -4,7 +4,7 @@ JavaScript, HTML, and CSS. Experienced in developing REST APIs, integrating mach
 deploying scalable backend services. Strong foundation in SQL with hands-on use of Git and version control. Built 
 production-ready ML and deep learning projects with measurable improvements in accuracy and performance. 
 Proven ability to deliver clean, optimized, and maintainable code aligned with industry best practices.
-https://raw.githubusercontent.com/yuvarajaHM/yuvarajaHM/main/yuvaraja%20H%20M%20yuva.pdf
+
 [![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=readme)](https://raw.githubusercontent.com/yuvarajaHM/yuvarajaHM/main/yuvaraja%20H%20M%20yuva.pdf)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuvaraj_418) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuva04461@gmail.com) 
